@@ -1,3 +1,3 @@
 # Network Layer
 
-This network manager is created using Url Request with Concurrency. In order to use this, you just need to download the repo and add it to your project as a framework. 
+This network manager is created using Url Request with Concurrency. In order to use this, you just need to download the repo and add it to your project as a framework. Please checkout the example folder to how to use it.
